@@ -1,0 +1,8 @@
+{
+  "name": "last-light",
+  "version": "1.0.0",
+  "description": "Кооп-выживание против зомби в браузере",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
